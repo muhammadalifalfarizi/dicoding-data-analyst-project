@@ -66,7 +66,3 @@ The final deliverable of the project is an interactive dashboard created with St
 
 This project provided valuable insights into the company's sales, product performance, and customer demographics. The interactive dashboard serves as a powerful tool for decision-makers to explore the data and derive actionable insights.
 
-## Copyright
-
-(C) E-Heisenberg Store
-
