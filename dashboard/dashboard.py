@@ -48,7 +48,7 @@ def create_bystate_df(df):
 
 
 # Load Cleaned Data
-file_path = 'dashboard/all_df.csv'
+file_path = r'C:\Users\muham\Codes\My-Projects\Dicoding-Project-Data Analyst\dashboard\all_df.csv'
 all_df = pd.read_csv(file_path)
 datetime_columns = ["order_approved_at", "order_purchase_timestamp", "order_delivered_carrier_date",
                     "order_delivered_customer_date", "order_estimated_delivery_date"]
